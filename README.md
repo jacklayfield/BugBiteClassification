@@ -9,6 +9,7 @@ Create new model <br/>
 ## Long term goals:
 
 - Train model to identify mosquito vs tick bite with at least 90% certainty
+- - Try resnet 18/50
 - Expand to spider bites
 - Expand to snake bites
 - Expand to type of spider bite (Brown Recluse vs Black Widow vs Wolf)
