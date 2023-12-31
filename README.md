@@ -1,10 +1,10 @@
 # BugBiteClassification
-ML project to classify bug bites
-Currently a work in progress
+ML project to classify bug bites <br/>
+Currently a work in progress (Will resume once more data has been derived)
 
 ## TODO
-Scrape and clean 2 datasets with at least 50 high quality images in each set <br/>
-Create new model <br/>
+[ ] Scrape and clean 2 datasets with at least 50 high quality images in each set <br/>
+[ ] Create new model <br/>
 
 ## Long term goals:
 
