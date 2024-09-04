@@ -3,10 +3,10 @@ from selenium.webdriver.common.keys import Keys
 
 import time
  
-# What you enter here will be searched for
-query = "mosquito bite"
+# Specify query
+query = "trees"
  
-# Creating a webdriver instance
+# Create webdriver instance
 driver = webdriver.Chrome('./chromedriver_win32_new/chromedriver.exe')
  
 # Maximize the screen
